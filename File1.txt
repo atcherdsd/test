@@ -1,6 +1,7 @@
 ﻿23 Maybe
 Да
 No
+Урок 4 = новая строка
 Go Sleep!
 OOPS!New line two
 ?
